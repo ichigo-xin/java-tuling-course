@@ -18,3 +18,4 @@
 
 - mysql一条语句的执行过程
 - mysql索引
+- explain执行计划
