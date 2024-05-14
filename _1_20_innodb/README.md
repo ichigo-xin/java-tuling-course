@@ -1,12 +1,10 @@
 innodb存储引擎
 
+- undo log：事务回滚用到
 
+- redo log：数据库宕机的数据恢复
 
-- undo log
-
-- redo log
-
-- bin log
+- bin log：主从复制，删除数据的恢复
 
 流程为：
 
