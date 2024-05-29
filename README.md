@@ -23,3 +23,4 @@
 - mvcc
 - innodb
 - replica
+- cluster

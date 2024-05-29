@@ -1,0 +1,1 @@
+直接使用mysql的cluster的方式搭建
