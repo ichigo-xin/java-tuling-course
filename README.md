@@ -42,3 +42,5 @@
 - ElasticSearch搜索技术深入与聚合查询实战
 
 - ElasticSearch集群架构实战及其原理剖析
+
+- ElasticSearch高级功能详解与原理剖析
