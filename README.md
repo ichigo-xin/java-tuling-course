@@ -67,3 +67,7 @@
 - ElasticSearch高级功能详解与原理剖析
 
 - elk日志采集分析
+
+## kafka
+
+- Kafka快速实战与基本原理详解
